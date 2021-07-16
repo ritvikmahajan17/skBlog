@@ -1,0 +1,24 @@
+.post_img{
+  height:100%;
+  max-height:200px; 
+  max-width:100%;
+  margin-bottom: 2%;
+}
+
+
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.type-selection {
+  display : flex;
+  flex-direction: row;
+  justify-content: center; 
+}
+
+.type-selection > a{
+  margin:10px;
+}
